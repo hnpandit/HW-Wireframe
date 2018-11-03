@@ -1,0 +1,82 @@
+/**
+ * Rutgers Coding BootCamp - Full Stack Developer - Mon/Wed
+ * Homework Wireframe - Himanshu Pandit
+ * November 3, 2018
+ **/
+
+  * {
+    box-sizing: border-box;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  body {
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+  }
+  
+  header {
+    padding: 20px;
+    margin-bottom: 10px;
+    background: #ebebeb;
+    width: 960px;
+  }
+
+  nav {
+    padding: 20px;
+    margin-bottom: 10px;
+    background: #ebebeb;
+    width: 960px;
+  }
+
+  section {
+    background: #777;
+    width: 960px;
+    height: auto;
+  }
+
+  #leftSection {
+    overflow: auto;
+    margin-bottom: 10px;
+    background: #ebebeb;
+    width: 49.5%;
+    float:left;
+  }
+
+  aside {
+    margin-bottom: 10px;
+    background: #ebebeb;
+    width: 49.5%;
+    height: 244px;
+    float: right;
+  }
+
+  article {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: white;
+    background: #777;
+    width: 95%;
+  }
+
+  #header2 {
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: #777;
+    background: #ebebeb;
+    width: 96%;
+  }
+
+  footer {
+    clear: both;
+    padding: 20px;
+    margin-bottom: 20px;
+    background: #ebebeb;
+    width: 960px;
+  }
+  
